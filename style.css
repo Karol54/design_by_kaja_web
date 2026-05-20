@@ -246,6 +246,16 @@ footer {
   box-shadow: 0 0px 100px rgba(31, 31, 31, 0.164);
 }
 
+footer a {
+    color: #777;
+    text-decoration: none;
+    transition: 0.3s;
+}
+
+footer a:hover {
+    color: #f97316;
+}
+
 .glow-wrapper {
     position: relative;
     overflow: hidden;
